@@ -1,0 +1,7 @@
+# Netbeans folders
+build
+nbproject
+test
+
+# Netbeans files
+build.xml
